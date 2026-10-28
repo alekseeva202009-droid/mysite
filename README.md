@@ -188,7 +188,7 @@ git push origin main
 (опишите структуру ваших файлов)
 
 ## 🌐 GitHub Pages
-Сайт доступен по адресу: https://twskgk.github.io/next_site/
+Сайт доступен по адресу: file:///C:/Users/Варя/mysite/index.html
 Главная — Портфолио
  
 
